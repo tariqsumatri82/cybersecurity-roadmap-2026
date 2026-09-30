@@ -33,4 +33,28 @@ A complete, step-by-step roadmap to become a Cybersecurity Professional in 2026 
   - You can explain the OSI Model in your own words
   - You can describe what happens when you type google.com in your browser
   - You finished the Pre-Security path on TryHackMe
+
+
+  ## Phase 2: Operating Systems & Linux (Weeks 5-8)
   
+  Linux is the backbone of cybersecurity. Most servers, security tools, and hacking platforms run on Linux. In this phase you will get comfortable with the command line — the single most important skill for any security professional.
+
+  ### What You Will Learn
+
+  - Linux file system and basic commands: ls, cd, pwd, cp, mv, rm
+  - Users, groups and file permissions: chmod, chown, sudo
+  - Package management: apt and yum
+  - Process management and monitoring: ps, top, kill
+  - Windows essentials: PowerShell, Active Directory, Registry
+
+    ### Free Resources
+
+    - Linux Journey - Complete Free Course: https://linuxjourney.com
+    - OverTheWire Bandit - Learn Linux by Playing a Game (Free): https://overthewire.org/wargames/bandit/
+    - TryHackMe - Linux Fundamentals (Free): https://tryhackme.com
+  
+      ### Phase 2 Checkpoint - You Are Ready To Move On When:
+
+      - You can move around folders in the terminal without using a mouse
+      - You finished OverTheWire Bandit levels 0 to 15
+      - You can explain what chmod 755 means
