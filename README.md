@@ -13,7 +13,7 @@ A complete, step-by-step roadmap to become a Cybersecurity Professional in 2026 
 
   ## Phase 1: IT & Networking Basics (Weeks 1-4)
   
-  -This is your foundation phase. Every cybersecurity job interview tests these basics, so do not skip them. By the end of these 4 weeks you will understand how computers and networks actually work — the knowledge every hacker and defender builds on.
+  This is your foundation phase. Every cybersecurity job interview tests these basics, so do not skip them. By the end of these 4 weeks you will understand how computers and networks actually work — the knowledge every hacker and defender builds on.
 
    ### What You Will Learn
 
