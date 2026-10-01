@@ -83,3 +83,34 @@ Now you shift from IT to SECURITY. This phase teaches you how attackers think an
 - You can explain the CIA Triad with real examples
 - You can describe how a phishing attack works from both sides: attacker and victim
 - You know the difference between hashing and encryption
+
+## Phase 4: Hands-On Labs & Tools (Weeks 13-20)
+
+Theory alone will not get you hired. Employers want proof that you can actually use security tools. This is the longest and most fun phase — you will set up your own hacking lab and practice with the same tools professionals use daily.
+
+### Build Your Free Lab First
+
+- Download VirtualBox (Free): https://www.virtualbox.org
+- Install Kali Linux (Free - the hacker operating system): https://www.kali.org
+- Alternative: Practice in browser without installing anything on TryHackMe or HackTheBox
+
+### Essential Tools You Will Master
+
+- Nmap - network scanning and discovery
+- Wireshark - traffic analysis and packet sniffing
+- Burp Suite - web application security testing
+- Metasploit - penetration testing framework
+- John the Ripper and Hashcat - password cracking
+- Nessus - vulnerability scanning
+
+### Free Resources
+
+- TryHackMe - Complete Beginner Path (Hands-on labs): https://tryhackme.com
+- HackTheBox - Starting Point (Free tier available): https://www.hackthebox.com
+- PortSwigger Web Security Academy (Free - best for web hacking): https://portswigger.net/web-security
+
+### Phase 4 Checkpoint - You Are Ready To Move On When:
+
+- You completed at least 20 rooms on TryHackMe
+- You can scan a network with Nmap and explain the results
+- You captured and analyzed traffic in Wireshark
