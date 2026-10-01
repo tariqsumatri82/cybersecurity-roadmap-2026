@@ -114,3 +114,32 @@ Theory alone will not get you hired. Employers want proof that you can actually 
 - You completed at least 20 rooms on TryHackMe
 - You can scan a network with Nmap and explain the results
 - You captured and analyzed traffic in Wireshark
+
+## Phase 5: Certifications That Actually Matter (Weeks 21-24)
+
+Warning: Do not waste money on the wrong certificates. After 15+ years in the industry and hiring many security professionals, I can tell you exactly which certificates open doors and which are a waste of time. Here is the honest, no-fluff list.
+
+### Beginner Certifications (Start Here)
+
+- CompTIA Security+ - THE entry-level certificate that HR looks for (do this first)
+- Google Cybersecurity Certificate - affordable and great for complete beginners
+- Cisco CCNA - if you want to focus on network security roles
+
+### Intermediate Certifications (After 1-2 Years Experience)
+
+- CySA+ - for defensive security and SOC analyst roles
+- CEH (Certified Ethical Hacker) - good for penetration testing career paths
+- GSEC / GCIH (SANS) - expensive but highly respected in the industry
+
+  ### Advanced Certifications (The Career Boosters)
+
+- OSCP - the most respected hands-on hacking certificate (real-world skills)
+- CISSP - the management-level gold standard (needs 5 years experience)
+
+### Insider Tips From 15+ Years in the Industry
+
+- Certificates alone do not get jobs - combine them with hands-on labs from Phase 4
+- Do NOT buy exam dumps - they are cheating, they get you blacklisted, and you will fail the job interview anyway
+- Security+ plus a strong GitHub profile beats Security+ alone every single time
+- Check if your employer will pay for your certification - most companies have training budgets nobody uses
+
