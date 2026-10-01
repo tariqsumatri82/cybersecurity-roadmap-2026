@@ -143,3 +143,38 @@ Warning: Do not waste money on the wrong certificates. After 15+ years in the in
 - Security+ plus a strong GitHub profile beats Security+ alone every single time
 - Check if your employer will pay for your certification - most companies have training budgets nobody uses
 
+## Phase 6: Job Hunting & Interview Prep
+
+You have the skills, you have the labs, you have the certificates. Now let us turn that into a job offer. This final phase covers everything schools never teach you: how to actually get hired in cybersecurity.
+
+### Entry-Level Jobs You Should Target First
+
+- SOC Analyst (Security Operations Center) - the classic entry point, highest number of openings
+- IT Support / Helpdesk with security focus - get inside a company first, then move internally
+- Junior Network Administrator - networking knowledge converts well into security roles
+- Security Administrator - great for learning tools like firewalls and endpoint protection
+- GRC Analyst (Governance, Risk, Compliance) - underrated path, less technical but high demand
+
+### How to Stand Out From 500 Other Applicants
+
+- Build a public GitHub profile with real projects (like this roadmap - show your work!)
+- Write about what you learn on LinkedIn - recruiters search for active learners
+- Show your TryHackMe/HackTheBox rank on your CV - it proves hands-on skills
+- Tailor your CV for each job - use the exact keywords from the job description
+- Join local security communities and Discord groups - most jobs come through referrals
+
+### Common Interview Questions You Must Prepare
+
+- Explain the CIA Triad and give a real-world example of each part
+- What is the difference between hashing and encryption?
+- A user reports a suspicious email - walk me through what you would do
+- What is port 443 used for? And port 22?
+- Explain what happens when you type a website address in your browser
+
+### Free Resources
+
+- LinkedIn Jobs and Indeed - search "SOC Analyst" or "Junior Cybersecurity": https://www.linkedin.com/jobs
+- r/cybersecurity subreddit - job advice and market trends: https://www.reddit.com/r/cybersecurity/
+- Interview prep questions database: https://github.com/tariqsumatri82
+
+
