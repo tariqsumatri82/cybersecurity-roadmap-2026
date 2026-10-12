@@ -177,4 +177,8 @@ You have the skills, you have the labs, you have the certificates. Now let us tu
 - r/cybersecurity subreddit - job advice and market trends: https://www.reddit.com/r/cybersecurity/
 - Interview prep questions database: https://github.com/tariqsumatri82
 
+---
+### 💡 Pro Tip (Q4 2026 Update)
+Always enforce strict SSH key authentication and disable password login on public-facing servers before running baseline scans.
+
 
